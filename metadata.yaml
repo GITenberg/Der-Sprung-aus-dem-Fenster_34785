@@ -1,0 +1,28 @@
+_repo: Der-Sprung-aus-dem-Fenster_34785
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Otten, Karl
+    alias: Rhenanus
+    birthdate: 1889
+    deathdate: 1963
+    gutenberg_agent_id: '37227'
+    url: http://www.gutenberg.org/2009/agents/37227
+description: ''
+gutenberg_bookshelf: DE Prosa
+gutenberg_issued: '2010-12-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34785'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'German fiction'
+title: Der Sprung aus dem Fenster
+url: http://www.gutenberg.org/ebooks/34785
